@@ -1,0 +1,6 @@
+authors = ["Li Alex Zhang <fff008@gmail.com>"]
+name = "SpikeSorting"
+uuid = "623b9620-e2cf-11e8-295e-858d70d5f364"
+version = "0.1.0"
+
+[deps]
